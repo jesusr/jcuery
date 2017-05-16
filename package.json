@@ -1,0 +1,19 @@
+{
+  "name": "jcuery",
+  "version": "0.1.0",
+  "description": "Experimental jQuery replacement, lightweight but completely compatible with the jQuery development. Work in progress.",
+  "main": "jcuery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusr/jcuery.git"
+  },
+  "author": "jesusrpeinado@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusr/jcuery/issues"
+  },
+  "homepage": "https://github.com/jesusr/jcuery#readme"
+}
